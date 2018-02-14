@@ -1,0 +1,21 @@
+{
+  "name": "coinup",
+  "version": "1.0.0",
+  "description": "checks if your coin wallet's jsonrpc is up/active",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coin",
+    "ping",
+    "wallet",
+    "cryptocurrency",
+    "bitcoin"
+  ],
+  "author": "unibtc@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "is-port-reachable": "^2.0.0"
+  }
+}
